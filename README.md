@@ -3,6 +3,7 @@ Cybersecurity lab exploring Metasploitable 2 environment and system structure
 ## Lab Environment
 
 Attacker Machine
+
 - Kali Linux
 
 Target Machine
@@ -12,6 +13,9 @@ Target Machine
 
 Username: msfadmin
 Password: msfadmin
+### Metasploitable Target Machine
+![Target Machine](target.png)
+
 
 ## Checking Current User
 
@@ -21,7 +25,8 @@ whoami
 
 Output:
 root
-
+### Metasploit Exploit
+![Metasploit](msf.png)
 ## Exploring File System
 
 Command:
@@ -33,3 +38,5 @@ ls /
 Command:
 
 ls /root
+### Viewing Users
+![User Table](passwd.png)
