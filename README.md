@@ -16,6 +16,9 @@ Password: msfadmin
 ### Metasploitable Target Machine
 ![Target Machine](target.png)
 
+### Nmap Scan Results
+![Nmap Scan](nmap-scans.png)
+
 
 ## Checking Current User
 
